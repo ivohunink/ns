@@ -1,0 +1,17 @@
+{
+  "name": "ns",
+  "version": "0.0.1",
+  "description": "Start of unofficial NS NodeJS module.",
+  "main": "index.js",
+  "scripts": {
+    "start": "clear; node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "xml2js": "^0.4.19"
+  }
+}
